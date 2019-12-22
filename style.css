@@ -1,0 +1,21 @@
+.wrapper {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(187, 187, 187);
+    resize: none;
+}
+
+.card {
+    padding: 15px;
+    border-style: dotted, gray;
+    resize: none;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+}
